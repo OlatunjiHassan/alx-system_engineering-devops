@@ -8,3 +8,4 @@ file 6-firstdirectory is a script that creates a directory my_first_directory in
 file 7-movethatfile moves a file from one directory to another
 file 8-firstdelete deletes betty from my_first_directory
 file 9-firstdirdeletion deletes /my_first_directory
+file 10-back changes current dir to previous one
