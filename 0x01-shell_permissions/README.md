@@ -7,3 +7,4 @@ file 5-execute add execute permission to owner of file
 file 6-multiple_permissions give owner permission to execute and other only read
 file 7-everybody give permission to all user to execute
 file 8-James_Bond give no permission to owners but all perms to others
+file 9-John_Doe put the permissions at rwxr-x-wx
